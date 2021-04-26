@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Rishav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 ### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/RishavMishraRM/count.svg)
+(https://profile-counter.glitch.me/RishavMishraRM/count.svg)
 
 
 [My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RishavMishraRM&count_private=true&theme=tokyonight&showicons=true)]()
