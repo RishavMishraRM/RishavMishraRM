@@ -30,3 +30,5 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RishavMishraRM&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavMishraRM&langs_count=5&theme=tokyonight)]()
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavMishraRM&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
