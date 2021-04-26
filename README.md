@@ -20,7 +20,7 @@
 
 
 -  3rd Year B.tech student in Computer Science and Engineering at SRM University.
--  Incoming Research Intern'21 at NIT Patna.
+-  Research Intern'21 at NIT Patna.
 -  I’m currently working on Machine Learning, Statistics, Deep Learning, NLP, Computer Vision, Big Data and etc.
 
 ### Visitor Count:
