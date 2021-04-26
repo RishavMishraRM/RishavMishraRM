@@ -7,7 +7,8 @@
 -  Incoming Research Intern'21 at NIT Patna.
 -  I’m currently working on Machine Learning, Statistics, Deep Learning, NLP, Computer Vision, Big Data and etc.
 
-- 📫 Reach me at: ...
+
+
 <a href="https://www.linkedin.com/in/rishavkumarmishra/">
   <img align="left" alt="Rishav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,7 +22,7 @@
   <img align="left" alt="Rishav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 ### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/{RishavMishraRM}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RishavMishraRM/count.svg)
 
 [My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RishavMishraRM&count_private=true&theme=tokyonight&showicons=true)]()
 [My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavMishraRM&langs_count=5&theme=tokyonight)]()
