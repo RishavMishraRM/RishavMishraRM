@@ -25,7 +25,7 @@
 
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/RishavMishraRM/count.svg)
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishavMishraRM" alt="Rishav" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishavMishraRM&theme=darkhub" alt="Rishav" /></a> </p>
 
 
 
