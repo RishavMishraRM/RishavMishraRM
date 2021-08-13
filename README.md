@@ -23,20 +23,20 @@
 -  Research Intern'21 at NIT Patna.
 -  I’m currently working on Machine Learning, Statistics, Deep Learning, NLP, Computer Vision, Big Data and etc.
 
+ 
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/RishavMishraRM/count.svg)
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishavMishraRM&theme=darkhub" alt="Rishav" /></a> </p>
 
-
+### Visitor Count:
+<img src="https://komarev.com/ghpvc/?username=RishavMishraRm&color=brightgreen&center" alt="Profile Views"  width="140">
+ 
+ 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RishavMishraRM&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavMishraRM&langs_count=5&theme=tokyonight)]()
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavMishraRM&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
- 
- ####################
- ####################
- <img src="https://komarev.com/ghpvc/?username=RishavMishraRm&color=brightgreen&center" alt="Profile Views"  width="140">
- </h1>
 
+ 
