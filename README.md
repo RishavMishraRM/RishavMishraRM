@@ -1,6 +1,7 @@
 ## Hey there!! I am Rishav Mishra.
 
 
+Ex Wipro, Ex Highradius, 
  
 <a href="https://www.linkedin.com/in/rishavkumarmishra/">
   <img align="left" alt="Rishav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
