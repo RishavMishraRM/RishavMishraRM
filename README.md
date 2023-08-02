@@ -48,4 +48,5 @@ Ex Wipro, Ex Highradius,
  
 
 
-[![RishavMishraRM's GitHub | Stats](https://stats.quine.sh/rishavmishrarm/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rishavmishrarm)
+
+[![RishavMishraRM's GitHub | Stats](https://stats.quine.sh/RishavMishraRM/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RishavMishraRM)
