@@ -46,3 +46,6 @@ Ex Wipro, Ex Highradius,
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavMishraRM&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  
+
+
+[![RishavMishraRM's GitHub | Stats](https://stats.quine.sh/rishavmishrarm/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rishavmishrarm)
