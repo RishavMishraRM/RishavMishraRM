@@ -15,7 +15,9 @@ Ex Wipro, Ex Highradius,
 <a href="https://www.facebook.com/the_rishav_mishra/">
   <img align="left" alt="Rishav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<a href="https://g.dev/RishavMishra">
+  <img align="left" alt="Rishav's Google Developer Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+</a>
 <br/>
 <br/>
 
