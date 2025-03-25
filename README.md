@@ -22,8 +22,9 @@ Ex Wipro, Ex Highradius,
 <br/>
 
 
--  Computer Science and Engineering at SRM University.
+-  B.Tech in Computer Science Engineering from SRM University.
 -  Research Intern'21 at NIT Patna.
+-  M.Tech in AI & DSE from IIT Patna
 -  I’m currently working on Machine Learning, Statistics, Deep Learning(MultiStage Information Extration), NLP, Computer Vision, Big Data and etc.
 
 
