@@ -29,13 +29,9 @@ Ex Wipro, Ex Highradius,
 -  Data Science Intern, MedTourEasy
 -  Intern, Wipro
 -  Data Science Intern, Highradius
-
-- HDFC Bank
- 
+-  HDFC Bank
 -  M.Tech in AI & DSE from IIT Patna
 -  Intern, Ineuron
-
- 
 -  I’m working on Machine Learning, Statistics, Deep Learning(MultiStage Information Extraction), NLP, Computer Vision, Big Data, etc.
 
 
