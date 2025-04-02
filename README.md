@@ -22,15 +22,15 @@ Ex Wipro, Ex Highradius,
 <br/>
 
 
--  B.Tech in Computer Science Engineering from SRM University.
+-  B.Tech in Computer Science Engineering from SRM University 
 -  BCG Intern 
 -  Research Intern'21, NIT Patna.
 -  Data Scientist Intern, The Sparks Foundation
 -  Data Science Intern, MedTourEasy
 -  Intern, Wipro
 -  Data Science Intern, Highradius
--  HDFC Bank
--  M.Tech in AI & DSE from IIT Patna
+-  HDFC Bank (*)
+-  M.Tech in AI & DSE from IIT Patna (*)
 -  Intern, Ineuron
 -  I’m working on Machine Learning, Statistics, Deep Learning(MultiStage Information Extraction), NLP, Computer Vision, Big Data, etc.
 
