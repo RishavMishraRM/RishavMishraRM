@@ -28,27 +28,28 @@ I work on **Machine Learning, Deep Learning, NLP, Computer Vision, Big Data, Gen
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rishavkumarmishra/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/RishavMishraRM">
-    <img src="https://cdn.simpleicons.org/github" width="32" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/the_rishav_mishra/">
-    <img src="https://cdn.simpleicons.org/instagram" width="32" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/the_rishav_mishra/">
-    <img src="https://cdn.simpleicons.org/facebook" width="32" alt="Facebook"/>
-  </a>
-  &nbsp;
-  <a href="https://g.dev/RishavMishra">
-    <img src="https://cdn.simpleicons.org/google" width="32" alt="Google Developer"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/rishavkumarmishra/">
+  <img align="left" alt="Rishav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/RishavMishraRM">
+  <img align="left" alt="Rishav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/the_rishav_mishra/?hl=en">
+  <img align="left" alt="Rishav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.facebook.com/the_rishav_mishra/">
+  <img align="left" alt="Rishav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://g.dev/RishavMishra">
+  <img align="left" alt="Rishav's Google Developer Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+</a>
+
+<br/>
+<br/>
 
 ---
 
@@ -97,12 +98,4 @@ I work on **Machine Learning, Deep Learning, NLP, Computer Vision, Big Data, Gen
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=RishavMishraRM&style=for-the-badge&color=brightgreen"
-    alt="Profile Views"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Building, learning and experimenting with AI 🚀</i>
-</p>
+    alt="Profile View
