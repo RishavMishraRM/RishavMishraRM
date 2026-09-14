@@ -36,27 +36,21 @@ Ex Wipro, Ex Highradius,
 -  Now working on GenAI, Agnetic AI, Voice AI and etc....
 
 
- 
-### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/RishavMishraRM/count.svg)
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishavMishraRM&theme=darkhub" alt="Rishav" /></a> </p>
- 
- 
-### Visitor Count:
+ ## GitHub Stats
 
-<h1 align="center"> 
-<img src="https://komarev.com/ghpvc/?username=RishavMishraRm&color=brightgreen&center" alt="Profile Views"  width="140">
- </h1>
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishavMishraRM&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishavMishraRM&layout=compact&theme=tokyonight" />
+</p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RishavMishraRM&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavMishraRM&langs_count=5&theme=tokyonight)]()
+## GitHub Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishavMishraRM&theme=dark" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavMishraRM&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## Profile Views
 
- 
-
-
-
-[![RishavMishraRM's GitHub | Stats](https://stats.quine.sh/RishavMishraRM/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RishavMishraRM)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishavMishraRM&color=brightgreen" />
+</p>
