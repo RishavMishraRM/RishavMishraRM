@@ -32,8 +32,8 @@ Ex Wipro, Ex Highradius,
 -  HDFC Bank (*)
 -  M.Tech in AI & DSE from IIT Patna (*)
 -  Intern, Ineuron
--  I’m working on Machine Learning, Statistics, Deep Learning(MultiStage Information Extraction), NLP, Computer Vision, Big Data, etc.
-
+-  I have worked on Machine Learning, Statistics, Deep Learning(MultiStage Information Extraction), NLP, Computer Vision, Big Data, etc.
+-  Now working on GenAI, Agnetic AI, Voice AI and etc....
 
 
  
